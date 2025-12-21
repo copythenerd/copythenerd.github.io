@@ -1,6 +1,7 @@
 ---
 title: "2025 Media Rewind"
 layout: post
+categories: media
 ---
 Another year of ardent media consumption has passed. 
 As every year before, I went to explore new genre of media, seeked out new formats and streaming-services, to boldly go, where oneone has gone before. 
