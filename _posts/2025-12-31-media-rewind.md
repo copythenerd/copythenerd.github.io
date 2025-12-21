@@ -1,4 +1,7 @@
-# 2025 Media Rewind
+---
+title: "2025 Media Rewind"
+layout: post
+---
 Another year of ardent media consumption has passed. 
 As every year before, I went to explore new genre of media, seeked out new formats and streaming-services, to boldly go, where oneone has gone before. 
 For the year of 2025, this means that I (partially) dived into genre of anime, embraced storytelling via comic books and finally got some streaming services
