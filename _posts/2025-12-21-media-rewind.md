@@ -1,5 +1,5 @@
 ---
-title: "Test"
+title: "2025 Media Rewind"
 layout: post
 ---
 
